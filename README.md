@@ -1,6 +1,6 @@
 # TheDeveloper_Mulari
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguages
 
 <img 
     align="left" 
@@ -36,7 +36,7 @@
 />
 
 ---
-#### 🔧 Tools I Use
+### 🔧 Tools I Use
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
