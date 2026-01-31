@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm João Mulari👋</h1>
+<h1 align="center">Hi there, I'm Mulari👋</h1>
 
 <p align="center">
  Robotic Enthusiast | Tech Enthusiast | Nuclear Enthusiast
